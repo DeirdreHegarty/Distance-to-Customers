@@ -1,0 +1,22 @@
+{
+  "name": "distance-to-customers",
+  "version": "1.0.0",
+  "description": "Calculate the distance (in km) to customers",
+  "main": "parseJson.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeirdreHegarty/Distance-to-Customers.git"
+  },
+  "author": "Deirdre Hegarty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeirdreHegarty/Distance-to-Customers/issues"
+  },
+  "homepage": "https://github.com/DeirdreHegarty/Distance-to-Customers#readme",
+  "dependencies": {
+    "jasmine": "^2.9.0"
+  }
+}
